@@ -1,0 +1,47 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+.env
+.venv
+ENV/
+env/
+venv/
+ENV.bak/
+env.bak/
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+.installed.cfg
+
+# Logs
+logs/
+*.log
+
+# Virtual Environment
+.vscode/
+.idea/
+
+# System specific
+.DS_Store
+Thumbs.db
+
+# Folders
+screenshots/
+logs/
+
+# Python cache files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore JetBrains project files
+.idea/
